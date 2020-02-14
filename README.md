@@ -1,1 +1,1 @@
-# Infrared_thermograph
+# DIY紅外線測溫儀
